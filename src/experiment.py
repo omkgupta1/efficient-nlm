@@ -25,8 +25,8 @@ RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 # NLM parameters
-PATCH_SIZE = 3
-SEARCH_SIZE = 7
+PATCH_SIZE = 5
+SEARCH_SIZE = 11
 H = 100.0
 
 # Gaussian noise
